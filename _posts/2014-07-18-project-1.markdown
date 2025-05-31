@@ -6,6 +6,7 @@ img: cabin.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+captxt: In probability theory, the Chinese restaurant process is a discrete-time stochastic process, analogous to seating customers at tables in a restaurant. Imagine a restaurant with an infinite number of circular tables, each with infinite capacity.
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
